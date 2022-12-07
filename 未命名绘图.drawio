@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T00:56:18.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="20.6.0" etag="WusL-gy_dtxzOWB-5qY9" type="github"><diagram id="V0G27VvKWWNcYon2umz5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-07T01:01:22.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="20.6.0" etag="njs-zhXJ8j7MmBSY6Csa" type="github">
+  <diagram id="Q9UsVtfyPJad9FgU7Qms" name="第 1 页">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0euN1j4P4cu1rjG3YWDw-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0euN1j4P4cu1rjG3YWDw-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;智慧医院线上购药项目&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="324" y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0euN1j4P4cu1rjG3YWDw-9" value="渠道方" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="184" y="120" width="226" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="0euN1j4P4cu1rjG3YWDw-10" value="美团" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" vertex="1" parent="0euN1j4P4cu1rjG3YWDw-9">
+          <mxGeometry x="50" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0euN1j4P4cu1rjG3YWDw-11" value="厚朴医院支付宝小程序" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" vertex="1" parent="0euN1j4P4cu1rjG3YWDw-9">
+          <mxGeometry x="50" y="160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0euN1j4P4cu1rjG3YWDw-15" value="广西医保APP" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;" vertex="1" parent="0euN1j4P4cu1rjG3YWDw-9">
+          <mxGeometry x="50" y="250" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
