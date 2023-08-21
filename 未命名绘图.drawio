@@ -1,9 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T09:48:13.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.8" etag="iRa_GtO9n-AOarO_WHbi" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T10:07:07.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="VIjYbox_wkKt-XbJWlGN" version="21.6.8" type="github">
   <diagram name="第 1 页" id="zt94M7lGnFIyYRUaHgiT">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="joebbPSKdjWF9t-P0Weu-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="680" as="sourcePoint" />
+            <mxPoint x="580" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-4" value="医院押金账户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-5" value="用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="680" as="sourcePoint" />
+            <mxPoint x="160" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="140" as="sourcePoint" />
+            <mxPoint x="580" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-9" value="用户通过各个渠道缴纳押金到医院" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-10" value="第一步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-13" value="医院住院结算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.552;entryY=1.095;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="joebbPSKdjWF9t-P0Weu-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="803" y="670" as="sourcePoint" />
+            <mxPoint x="920" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="270" as="sourcePoint" />
+            <mxPoint x="170" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-16" value="住院处审核出院数据无误后，进行住院处方上传" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="joebbPSKdjWF9t-P0Weu-15">
+          <mxGeometry x="-0.2454" y="-4" relative="1" as="geometry">
+            <mxPoint x="-182" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-17" value="第二步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="410" as="sourcePoint" />
+            <mxPoint x="570" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-21" value="用户进行医保结算，先进自费结算，扣减本人医院缴纳的押金" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="380" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-23" value="第三步" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-24" value="注：&lt;br&gt;1.在本人押金不足的情况下，再扣减自身银行卡钱&lt;br&gt;2.在本人押金充足的情况下，多余的押金会进行原路退回&lt;br&gt;3.自费结算时，会有押金确认操作，以便用户明确押金扣&lt;br&gt;减细节，同时进行人脸识别之类的技术，保证安全性" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="620" as="sourcePoint" />
+            <mxPoint x="1031.60009765625" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-30" value="医保移动支付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="960" y="40" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.552;entryY=1.095;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="666" as="sourcePoint" />
+            <mxPoint x="1040" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-32" value="第四步&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="588" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-33" value="用户在完成自费缴纳的情况下，自动进行医保个账统筹结算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="588" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="joebbPSKdjWF9t-P0Weu-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.366;exitY=-0.042;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="joebbPSKdjWF9t-P0Weu-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="sourcePoint" />
+            <mxPoint x="440" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
